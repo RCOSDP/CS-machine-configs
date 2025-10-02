@@ -1,5 +1,8 @@
-name: example
+name: "#repo2docker#python=3.12.*,r-base=4.4.*"
 channels:
-  - conda-forge
+- conda-forge
 dependencies:
-  - python=3.12
+- ansible=11.0.0
+- paramiko=4.0.0
+- ipywidgets=8.1.7
+- python==3.12.11
