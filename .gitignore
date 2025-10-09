@@ -2,3 +2,4 @@
 *.ini
 **/ldap_users.csv
 **/ldap_groups.csv
+**/.ipynb_checkpoints
