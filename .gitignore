@@ -1,5 +1,33 @@
-.*.swp
-*.ini
-**/ldap_users.csv
-**/ldap_groups.csv
+# -----------------
+# Temporary files
+# -----------------
+# vi
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+# MS Office
+~$*
+*.tmp
+# Emacs
+.\#*
+# Jupyter Notebook
 **/.ipynb_checkpoints
+# -----------------
+# Backup files
+# -----------------
+*~
+*.orig
+*.bak
+# yyyyMMdd
+*.[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]
+# yyyyMMddHHmm
+*.[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]
+# yyyyMMddHHmmss
+*.[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]
+# OS dependent files
+# -----------------
+# Mac (Clutter files)
+.DS_Store
+Thumbs.db
