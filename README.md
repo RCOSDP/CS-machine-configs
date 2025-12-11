@@ -4,6 +4,8 @@
 
 [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/RCOSDP/CS-machine-configs.git/develop?filepath=tljh_ansible_deployment.ipynb)
 
+<!-- [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/RCOSDP/CS-machine-configs/HEAD?filepath=tljh_ansible_deployment.ipynb) -->
+
 Jupyter Notebook の指示に従って、インストール作業を進めてください。
 
 ## 既知の問題

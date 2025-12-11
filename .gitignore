@@ -14,6 +14,9 @@ Session.vim
 .\#*
 # Jupyter Notebook
 **/.ipynb_checkpoints
+inventory
+ansible.cfg
+tljh_playbook.yml
 # SSH
 **/.ssh
 id_rsa*
